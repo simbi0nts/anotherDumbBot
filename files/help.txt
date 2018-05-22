@@ -1,0 +1,26 @@
+OK, listen here, m-fasa, I don't know why are you here and I don't want to know anyway.
+So, here's the deal - you may use those commands, but don't even think to dig dirt on me, got it?
+Here's the list:
+
+The first group of commands requires a picture to work with. So, there are two options for now:
+1) Send pic directly to bot
+2) Put link after the command, like that: /<command> <options> <link>
+3) You can also try to send to bot, what exactly you looking for: /<command> <options> <query> (like, /jpeg 2 dog)
+If the bot couldn't find any pic - nothing will happen.
+So, here they are:
+/magik - liquid rescale (ex.: /magik or /magik 5 or /magik 2, etc.)
+/gmagik - liquid rescale but in jif (ex.: /gmagik or /gmagik ext)
+/triggered - triggered jif
+/glitch (/glitch2) - glitching image or jif (ex.: /glitch or /glitch 15 50 18 or /glitch2 etc.)
+/jpeg - more jpeg (ex.: /jpeg or /jpeg 5 or /jpeg 2, etc.)
+/eye (/eyes) - applying stupid eyes to photo (ex.: /eye 9 or /eye list for help)
+
+The second group does not require an image. But some of them might need options. 
+Otherwise, there will be some random result or even nothing in return.
+/badmeme - random badmeme
+/gif - random jif (ex.: /gif your dad think you were a mistake)
+/retro1 (/retro2, /retro3) - making retro text (ex.: /retro2 Hitler|Did|9/11). Use | as separator
+/help - I dunno, maybe help message?
+If you want to notify me about my thash-like spelling or/and punctuation, 
+just send me an e-mail: whocares@not.me 
+And yeah - there's come more
